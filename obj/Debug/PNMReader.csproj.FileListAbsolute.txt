@@ -1,0 +1,8 @@
+C:\Users\Bernardo\Documents\Visual Studio 2008\Projects\PNMReader\bin\Debug\PNMReader.exe
+C:\Users\Bernardo\Documents\Visual Studio 2008\Projects\PNMReader\bin\Debug\PNMReader.pdb
+C:\Users\Bernardo\Documents\Visual Studio 2008\Projects\PNMReader\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bernardo\Documents\Visual Studio 2008\Projects\PNMReader\obj\Debug\PNMReader.Form1.resources
+C:\Users\Bernardo\Documents\Visual Studio 2008\Projects\PNMReader\obj\Debug\PNMReader.Properties.Resources.resources
+C:\Users\Bernardo\Documents\Visual Studio 2008\Projects\PNMReader\obj\Debug\PNMReader.csproj.GenerateResource.Cache
+C:\Users\Bernardo\Documents\Visual Studio 2008\Projects\PNMReader\obj\Debug\PNMReader.exe
+C:\Users\Bernardo\Documents\Visual Studio 2008\Projects\PNMReader\obj\Debug\PNMReader.pdb
